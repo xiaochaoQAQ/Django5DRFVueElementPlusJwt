@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68366c9c-3db8-4d80-9a6b-1a0a991303fc" name="Changes" comment="1" />
+    <list default="true" id="68366c9c-3db8-4d80-9a6b-1a0a991303fc" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Django5DRFVueElementPlusJwt" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -32,12 +34,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="df479827-5acb-4941-8554-505d49b17d51" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/xiaochaoQAQ/Django.git&quot;,
-    &quot;accountId&quot;: &quot;df479827-5acb-4941-8554-505d49b17d51&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xiaochaoQAQ/Django5DRFVueElementPlusJwt.git",
+    "accountId": "df479827-5acb-4941-8554-505d49b17d51"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -56,7 +58,7 @@
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/ProjectPyCharm/Django5DRFVueElementPlusJwt/media/userAvatar",
+    "last_opened_file_path": "D:/ProjectPyCharm/Django5DRFVueElementPlusJwt",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -153,9 +155,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Django Server.Django5DRFVueElementPlusJwt" />
       <item itemvalue="Python.manage" />
       <item itemvalue="Python.middleware" />
-      <item itemvalue="Django Server.Django5DRFVueElementPlusJwt" />
     </list>
   </component>
   <component name="SharedIndexes">
@@ -195,7 +197,7 @@
       <workItem from="1738612391420" duration="210000" />
       <workItem from="1738638116685" duration="788000" />
       <workItem from="1738639211783" duration="1363000" />
-      <workItem from="1738640596010" duration="28000" />
+      <workItem from="1738640596010" duration="287000" />
     </task>
     <task id="LOCAL-00001" summary="后端">
       <option name="closed" value="true" />
@@ -205,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738639245768</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1738640648451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738640648451</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,8 +237,8 @@
       <path value="$PROJECT_DIR$/Django5DRFVueElementPlusJwt" />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="1" />
     <MESSAGE value="后端" />
-    <option name="LAST_COMMIT_MESSAGE" value="后端" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
